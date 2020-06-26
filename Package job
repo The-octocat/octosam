@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<Types xmlns="http://schemas.openxmlformats.org/package/2006/content-types">
+
+<Default ContentType="xweb/dict" Extension="xml"/>
+
+<Override ContentType="context/job" PartName="/ContextType"/>
+
+<Override ContentType="context/task" PartName="/browserie6/ContextType"/>
+
+</Types
