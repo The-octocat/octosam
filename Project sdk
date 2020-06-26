@@ -54,3 +54,13 @@ $ dotnet pack --configuration Release
 
 // Step 2: Publish
 $ dotnet nuget push "bin/Release/package-website.1.0.0.nupkg" --source "github" 
+{
+ // Step 1: Use `publishConfig` option in your package.json
+"publishConfig": { "registry": "https://npm.pkg.github.com/" }
+
+// Step 2: Authenticate
+$ npm login --registry=https://npm.pkg.github.com/
+
+// Step 3: Publish
+$ npm publish
+}
