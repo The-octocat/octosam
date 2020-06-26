@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<PropertyBag Key="PropertyBagElement">
+
+
+-<PropertyBag Key="TaskActions">
+
+
+-<PropertyBag Key="browserie6" Type="Microsoft.Expression.Web.PageAnalysis.Preview.Actions.PreviewPageActionDescriptor,Microsoft.Expression.Web.PageAnalysis.Preview, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+
+<KeyValuePair Key="InternetExplorerUriCommand.InternetExplorerVersion" Value="IE6"/>
+
+<KeyValuePair Key="AssemblyName" Value="Microsoft.Expression.Web.PageAnalysis.Preview.InternetExplorer, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35"/>
+
+<KeyValuePair Key="TypeName" Value="Microsoft.Expression.Web.PageAnalysis.Preview.InternetExplorer.InternetExplorerUriCommand"/>
+
+<KeyValuePair Key="Endpoint" Value="C:\Program Files (x86)\Microsoft Expression\Web 4\pips.exe"/>
+
+<KeyValuePair Key="ActivationContext" Type="Microsoft.Expression.Web.PageAnalysis.Core.Actions.InvocationModel" Value="OutOfProcess"/>
+
+<KeyValuePair Key="Id" Value="browserie6"/>
+
+<KeyValuePair Key="FileName" Value="iexplore.exe"/>
+
+<KeyValuePair Key="BrowserName" Value="Internet Explorer"/>
+
+<KeyValuePair Key="BrowserVersion" Type="System.Version" Value="6.0"/>
+
+<KeyValuePair Key="Enabled" Type="System.Boolean" Value="True"/>
+
+<KeyValuePair Key="IsInternetExplorer" Type="System.Boolean" Value="True"/>
+
+<KeyValuePair Key="DisplayFamilyName" Value="Internet Explorer"/>
+
+<KeyValuePair Key="DisplayToolTip" Value="Internet Explorer 6"/>
+
+<KeyValuePair Key="LocatorId" Type="System.Guid" Value="5ca1a396-1830-4cdf-90d5-01baebb7e795"/>
+
+<KeyValuePair Key="InternetExplorerUriCommand.HostedIEModule" Value="hostedie6.dll"/>
+
+<KeyValuePair Key="InternetExplorerUriCommand.HostedIEModuleSatellite" Value="hostedie6r.dll"/>
+
+<KeyValuePair Key="InternetExplorerUriCommand.JscriptModule" Value="jscript6.dll"/>
+
+</PropertyBag>
+
+</PropertyBag>
+
+<KeyValuePair Key="Browser.ViewportSize" Type="System.Drawing.Size" Value="1024, 768"/>
+
+</PropertyBag>
