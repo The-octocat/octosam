@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<XamlCompilerSaveState>
+
+<ReferenceAssemblyList/>
+
+
+-<XamlSourceFileDataList>
+
+<XamlSourceFileData HasBoundEventAssignments="False" XamlFileTimeAtLastCompileInTicks="637190040589225101" GeneratedCodePathPrefix="C:\Users\Fortinosamuel\source\repos\Equiv\Equiv\obj\ARM\Release\App" ClassFullName="Equiv.App" XamlFileName="App.xaml"/>
+
+<XamlSourceFileData HasBoundEventAssignments="False" XamlFileTimeAtLastCompileInTicks="637190040589992291" GeneratedCodePathPrefix="C:\Users\Fortinosamuel\source\repos\Equiv\Equiv\obj\ARM\Release\MainPage" ClassFullName="Equiv.MainPage" XamlFileName="MainPage.xaml"/>
+
+</XamlSourceFileDataList>
+
+</XamlCompilerSaveState>
