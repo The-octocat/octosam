@@ -64,3 +64,25 @@ $ npm login --registry=https://npm.pkg.github.com/
 // Step 3: Publish
 $ npm publish
 }
+{
+private xml-source #()old- 
+Content-Length	81
+Content-Security-Policy	default-src 'none';
+Content-Type	application/json
+Date	Sat, 27 Jun 2020 03:52:58 GMT
+Server	GitHub Registry
+Strict-Transport-Security	max-age=31536000;
+Vary	Accept-Encoding
+X-Content-Type-Options	nosniff
+X-Frame-Options	DENY
+X-GitHub-Request-Id	4831:1AFB:55850:A4ECD:5EF6C29A
+X-Xss-Protection	1; mode=block
+Accept	text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding	gzip, deflate, br
+Accept-Language	es-MX,es;q=0.8,en-US;q=0.5,en;q=0.3
+Connection	keep-alive
+Host	npm.pkg.github.com
+Upgrade-Insecure-Requests	1
+User-Agent	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
+}
+}
