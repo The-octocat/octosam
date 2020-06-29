@@ -1,0 +1,17 @@
+{<!Docktype html>
+}
+{<head id="head1">}
+{<meta name="type" content="http-equiv; text/javascript/css" chartset="utf-8" />
+}
+{private: /head>
+}
+{<body style="background-color: #000080">
+}
+{<form1 action="www.webmaste.com" method="post" runat="server" onclick: behavior-textbox1>
+}
+{<input type="textbox" value="Github"></textbox><input button="type" type="Submit" value="Github">
+}
+{</body>
+}
+{</html>
+}
