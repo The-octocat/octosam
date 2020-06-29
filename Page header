@@ -7,10 +7,13 @@
 }
 {<body style="background-color: #000080">
 }
+{<div>
+}
 {<form1 action="www.webmaste.com" method="post" runat="server" onclick: behavior-textbox1>
 }
-{<input type="textbox" value="Github"></textbox><input button="type" type="Submit" value="Github">
+{<input type="textbox" value="Github"></textbox><input button="type" type="Submit" value="Github"></button>
 }
+</div>
 {</body>
 }
 {</html>
