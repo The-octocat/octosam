@@ -1,0 +1,23 @@
+{
+Fortinosamuel@VAIO MINGW64 ~ (branches/permanent)
+$ git filter-branch --index-filter /
+WARNING: git-filter-branch has a glut of gotchas generating mangled history
+         rewrites.  Hit Ctrl-C before proceeding to abort, then use an
+         alternative filtering tool such as 'git filter-repo'
+         (https://github.com/newren/git-filter-repo/) instead.  See the
+         filter-branch manual page for more details; to squelch this warning,
+         set FILTER_BRANCH_SQUELCH_WARNING=1.
+Proceeding with filter-branch...
+
+fatal: Needed a single revision
+Fortinosamuel@VAIO MINGW64 ~ (branches/permanent)
+$ git count-objects -v
+count: 5164
+size: 459794
+in-pack: 18844
+packs: 1
+size-pack: 3215
+prune-packable: 0
+garbage: 0
+size-garbage: 0
+}
