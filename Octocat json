@@ -1,0 +1,95 @@
+{
+Fortinosamuel@VAIO MINGW64 ~ (branches/permanent|AM 1/1)
+$ curl -i https://api.github.com/users/samuel-velazquez/orgs
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   706  100   706    0     0   1833      0 --:--:-- --:--:-- --:--:--  1833HTTP/1.1 200 OK
+server: GitHub.com
+date: Tue, 18 Aug 2020 04:20:26 GMT
+content-type: application/json; charset=utf-8
+status: 200 OK
+cache-control: public, max-age=60, s-maxage=60
+vary: Accept, Accept-Encoding, Accept, X-Requested-With
+etag: W/"6da23d3364848dbdaeb00c34654b0030"
+x-github-media-type: github.v3; format=json
+access-control-expose-headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, Deprecation, Sunset
+access-control-allow-origin: *
+strict-transport-security: max-age=31536000; includeSubdomains; preload
+x-frame-options: deny
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+referrer-policy: origin-when-cross-origin, strict-origin-when-cross-origin
+content-security-policy: default-src 'none'
+X-Ratelimit-Limit: 60
+X-Ratelimit-Remaining: 54
+X-Ratelimit-Reset: 1597726378
+Accept-Ranges: bytes
+Content-Length: 706
+X-GitHub-Request-Id: C962:74C7:1400306:340AFCD:5F3B570A
+
+[
+  {
+    "login": "The-octocat",
+    "id": 67381315,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjY3MzgxMzE1",
+    "url": "https://api.github.com/orgs/The-octocat",
+    "repos_url": "https://api.github.com/orgs/The-octocat/repos",
+    "events_url": "https://api.github.com/orgs/The-octocat/events",
+    "hooks_url": "https://api.github.com/orgs/The-octocat/hooks",
+    "issues_url": "https://api.github.com/orgs/The-octocat/issues",
+    "members_url": "https://api.github.com/orgs/The-octocat/members{/member}",
+    "public_members_url": "https://api.github.com/orgs/The-octocat/public_members{/member}",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/67381315?v=4",
+    "description": "Todo"
+  }
+]
+
+
+Fortinosamuel@VAIO MINGW64 ~ (branches/permanent|AM 1/1)
+$ Fortinosamuel@VAIO MINGW64 ~ (branches/permanent|AM 1/1)
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   706  100   706    0     0   1833      0 --:--:-- --:--:-- --:--:--  1833HTTP/1.1 200 OK
+server: GitHub.com
+date: Tue, 18 Aug 2020 04:20:26 GMT
+content-type: application/json; charset=utf-8
+bash: syntax error near unexpected token `('
+status: 200 OK
+cache-control: public, max-age=60, s-maxage=60
+vary: Accept, Accept-Encoding, Accept, X-Requested-With
+etag: W/"6da23d3364848dbdaeb00c34654b0030"
+x-github-media-type: github.v3; format=json
+access-control-expose-headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, Deprecation, Sunset
+access-control-allow-origin: *
+strict-transport-security: max-age=31536000; includeSubdomains; preload
+x-frame-options: deny
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+referrer-policy: origin-when-cross-origin, strict-origin-when-cross-origin
+content-security-policy: default-src 'none'
+X-Ratelimit-Limit: 60
+X-Ratelimit-Remaining: 54
+X-Ratelimit-Reset: 1597726378
+Accept-Ranges: bytes
+Content-Length: 706
+X-GitHub-Request-Id: C962:74C7:1400306:340AFCD:5F3B570A
+
+[
+  {
+    "login": "The-octocat",
+    "id": 67381315,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjY3MzgxMzE1",
+    "url": "https://api.github.com/orgs/The-octocat",
+    "repos_url": "https://api.github.com/orgs/The-octocat/repos",
+    "events_url": "https://api.github.com/orgs/The-octocat/events",
+    "hooks_url": "https://api.github.com/orgs/The-octocat/hooks",
+    "issues_url": "https://api.github.com/orgs/The-octocat/issues",
+    "members_url": "https://api.github.com/orgs/The-octocat/members{/member}",
+    "public_members_url": "https://api.github.com/orgs/The-octocat/public_members{/member}",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/67381315?v=4",
+    "description": "Todo"
+  }
+]
+
+
+}
