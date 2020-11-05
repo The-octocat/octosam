@@ -1,2 +1,3 @@
 www.autotest.net
-https://azurequickstartsservice.blob.core.windows.net/badges/201-web-app-github-deploy/PublicLastTestDate.svg
+
+![Azure Public Test Date](https://azurequickstartsservice.blob.core.windows.net/badges/201-web-app-github-deploy/PublicLastTestDate.svg)
