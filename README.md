@@ -1,5 +1,8 @@
 ## Abouth
-![CI](https://github.com/github/visualstudio/workflows/CI/badge.svg) ![Azure Public Test Date](https://azurequickstartsservice.blob.core.windows.net/badges/201-documentdb-webapp/PublicLastTestDate.svg)
+![CI](https://github.com/github/visualstudio/workflows/CI/badge.svg) ![Azure Public Test Date](https://azurequickstartsservice.blob.core.windows.net/badges/201-documentdb-webapp/PublicLastTestDate.svg) ![Azure Public Test Result](https://azurequickstartsservice.blob.core.windows.net/badges/201-documentdb-webapp/PublicDeployment.svg) ![Azure US Gov Last Test Result](https://azurequickstartsservice.blob.core.windows.net/badges/201-documentdb-webapp/FairfaxDeployment.svg) ![Best Practice Check](https://azurequickstartsservice.blob.core.windows.net/badges/201-documentdb-webapp/BestPracticeResult.svg)
+![Cred Scan Check](https://azurequickstartsservice.blob.core.windows.net/badges/201-documentdb-webapp/CredScanResult.svg)
+
+[![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2F201-documentdb-webapp%2Fazuredeploy.json)  [![Visualize](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/visualizebutton.svg?sanitize=true)](http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2F201-documentdb-webapp%2Fazuredeploy.json)
 # My-Web-Sites
 Document in getso position domain is call back date setting
 ## Ignore Visual Studio temporary files, build results, and
