@@ -1,5 +1,5 @@
 ## Abouth
-![CI](https://github.com/github/visualstudio/workflows/CI/badge.svg)
+![CI](https://github.com/github/visualstudio/workflows/CI/badge.svg) ![Azure Public Test Date](https://azurequickstartsservice.blob.core.windows.net/badges/201-documentdb-webapp/PublicLastTestDate.svg)
 # My-Web-Sites
 Document in getso position domain is call back date setting
 ## Ignore Visual Studio temporary files, build results, and
