@@ -19,3 +19,28 @@
 # If you are unfamiliar with CSON, you can read more about it in the
 # Atom Flight Manual:
 # http://flight-manual.atom.io/using-atom/sections/basic-customization/#_cson
+# source # NOTE:  console.log if condition
+  # body...
+else
+  # body...
+  else if condition
+    # body... in # COMBAK: git "unfamiliar" try
+
+    catch error # OPTIMIZE:'.source.js':
+      'Snippet Name':
+        'prefix': 'Snippet Trigger'
+        'body': 'Hello World!'
+        $ignore as sys = require 'sys'
+        [, ] # IDEA: class ClassName extends Ancestor
+
+          constructor: (args) ->
+            # body...
+            param: "typing" # OPTIMIZE: [# DEBUG: # TEMP: ] jasmine.createSpy('description')
+            switch object
+              when value
+                # body... or [, ]
+                "Home": "C#" OR templated
+                is date-up // so path = 1 in
+                {
+                  afterEach ->
+ sys = require 'sys' "repository" create console.log 
