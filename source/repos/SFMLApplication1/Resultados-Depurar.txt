@@ -1,0 +1,6 @@
+﻿'SFMLApplication1.exe' (Administrado (v4.0.30319)): se cargó 'C:\WINDOWS\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll', símbolos cargados.
+'SFMLApplication1.exe' (Administrado (v4.0.30319)): se cargó 'C:\Users\Fortinosamuel\source\repos\SFMLApplication1\SFMLApplication1\bin\Debug\SFMLApplication1.exe', símbolos cargados.
+'SFMLApplication1.exe' (Administrado (v4.0.30319)): se cargó 'C:\Users\Fortinosamuel\source\repos\SFMLApplication1\SFMLApplication1\bin\Debug\sfmlnet-graphics-2.dll'
+'SFMLApplication1.exe' (Administrado (v4.0.30319)): se cargó 'C:\Users\Fortinosamuel\source\repos\SFMLApplication1\SFMLApplication1\bin\Debug\sfmlnet-window-2.dll'
+Ir a: paso a paso por procedimientos en el método sin símbolos 'SFMLApplication1.Program.'
+El programa '[2976] SFMLApplication1.exe: Administrado (v4.0.30319)' terminó con código 0 (0x0).

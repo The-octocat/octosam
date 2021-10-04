@@ -1,0 +1,29 @@
+﻿1>------ Operación Compilar iniciada: proyecto: SFMLApplication1, configuración: Debug Any CPU ------
+1>C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(2110,5): warning MSB3270: La arquitectura del procesador del proyecto que se va a compilar "MSIL" y la arquitectura del procesador de la referencia "sfmlnet-audio-2, Version=2.1.0.0, Culture=neutral, processorArchitecture=x86", "x86", no coinciden. Esta falta de coincidencia puede causar errores en tiempo de ejecución. Cambie la arquitectura del procesador de destino del proyecto mediante el Administrador de configuración para alinear las arquitecturas de procesador entre el proyecto y las referencias, o tome una dependencia de las referencias con una arquitectura de procesador que coincida con la arquitectura del procesador de destino del proyecto.
+1>C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(2110,5): warning MSB3270: La arquitectura del procesador del proyecto que se va a compilar "MSIL" y la arquitectura del procesador de la referencia "sfmlnet-graphics-2, Version=2.1.0.0, Culture=neutral, processorArchitecture=x86", "x86", no coinciden. Esta falta de coincidencia puede causar errores en tiempo de ejecución. Cambie la arquitectura del procesador de destino del proyecto mediante el Administrador de configuración para alinear las arquitecturas de procesador entre el proyecto y las referencias, o tome una dependencia de las referencias con una arquitectura de procesador que coincida con la arquitectura del procesador de destino del proyecto.
+1>C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(2110,5): warning MSB3270: La arquitectura del procesador del proyecto que se va a compilar "MSIL" y la arquitectura del procesador de la referencia "sfmlnet-window-2, Version=2.1.0.0, Culture=neutral, processorArchitecture=x86", "x86", no coinciden. Esta falta de coincidencia puede causar errores en tiempo de ejecución. Cambie la arquitectura del procesador de destino del proyecto mediante el Administrador de configuración para alinear las arquitecturas de procesador entre el proyecto y las referencias, o tome una dependencia de las referencias con una arquitectura de procesador que coincida con la arquitectura del procesador de destino del proyecto.
+1>C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(3867,5): warning MSB3178: Se especificó el ensamblado 'lib\sfmlnet-audio-2.dll' incorrectamente como un archivo.
+1>C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(3867,5): warning MSB3178: Se especificó el ensamblado 'lib\sfmlnet-graphics-2.dll' incorrectamente como un archivo.
+1>C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(3867,5): warning MSB3178: Se especificó el ensamblado 'lib\sfmlnet-window-2.dll' incorrectamente como un archivo.
+1>C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(3867,5): warning MSB3187: El ensamblado al que se hace referencia 'C:\Users\Fortinosamuel\source\repos\SFMLApplication1\SFMLApplication1\lib\sfmlnet-audio-2.dll' se aplica a un procesador diferente del de la aplicación.
+1>C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(3867,5): warning MSB3187: El ensamblado al que se hace referencia 'C:\Users\Fortinosamuel\source\repos\SFMLApplication1\SFMLApplication1\lib\sfmlnet-graphics-2.dll' se aplica a un procesador diferente del de la aplicación.
+1>C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(3867,5): warning MSB3187: El ensamblado al que se hace referencia 'C:\Users\Fortinosamuel\source\repos\SFMLApplication1\SFMLApplication1\lib\sfmlnet-window-2.dll' se aplica a un procesador diferente del de la aplicación.
+1>  SFMLApplication1 -> C:\Users\Fortinosamuel\source\repos\SFMLApplication1\SFMLApplication1\bin\Debug\SFMLApplication1.exe
+1>  C:\Users\Fortinosamuel\source\repos\SFMLApplication1\SFMLApplication1\lib\csfml-audio-2.dll
+1>  C:\Users\Fortinosamuel\source\repos\SFMLApplication1\SFMLApplication1\lib\csfml-graphics-2.dll
+1>  C:\Users\Fortinosamuel\source\repos\SFMLApplication1\SFMLApplication1\lib\csfml-window-2.dll
+1>  C:\Users\Fortinosamuel\source\repos\SFMLApplication1\SFMLApplication1\lib\libsndfile-1.dll
+1>  C:\Users\Fortinosamuel\source\repos\SFMLApplication1\SFMLApplication1\lib\openal32.dll
+1>  C:\Users\Fortinosamuel\source\repos\SFMLApplication1\SFMLApplication1\lib\sfmlnet-audio-2.dll
+1>  C:\Users\Fortinosamuel\source\repos\SFMLApplication1\SFMLApplication1\lib\sfmlnet-graphics-2.dll
+1>  C:\Users\Fortinosamuel\source\repos\SFMLApplication1\SFMLApplication1\lib\sfmlnet-window-2.dll
+1>          8 archivo(s) copiado(s).
+Compilando SFMLApplication1...
+2>------ Publicación iniciada: proyecto: SFMLApplication1, configuración: Debug Any CPU ------
+Conectando con 'C:\Users\Fortinosamuel\source\repos\SFMLApplication1\SFMLApplication1\publish\'...
+Publicando archivos...
+Publicación correcta.
+Advertencia: No se puede ver la aplicación publicada en http://vaio:22394/publish.htm.
+http://vaio:22394/publish.htm
+========== Compilar: 1 correctos, 0 incorrectos, 0 actualizados, 0 omitidos ==========
+========== Publicación: 1 procesados, 0 no procesados, 0 omitidos ==========
